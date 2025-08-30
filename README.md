@@ -346,9 +346,5 @@ Contributions are welcome 🎉
 
 ---
 
-## 🪪 License
-This project is licensed under the **MIT License**.  
-Feel free to use, share, and contribute!  
 
----
 
