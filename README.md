@@ -288,3 +288,67 @@
 # English Spokeng Corse
 - [English Spokeng](https://www.learnvern.com/spoken-english-course/understanding-sentences-in-english?show_calendar_popup=1)
 
+  ## 🛠 Developer Productivity Tools
+- **Editor**: [VS Code](https://code.visualstudio.com/)  
+  - Extensions: ESLint, Prettier, GitLens, Tailwind IntelliSense  
+- **API Testing**: Postman, Insomnia  
+- **Database GUI**: TablePlus, MongoDB Compass  
+- **Browser Extensions**: React DevTools, Redux DevTools  
+
+---
+
+## 💼 Career & Job Prep
+- Build a **portfolio** with 3–5 solid full-stack projects  
+- Write **case studies** in project READMEs  
+- Apply to jobs/internships/freelance platforms  
+- **Interview Prep**:  
+  - [LeetCode](https://leetcode.com/problemset/)  
+  - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)  
+  - [System Design Primer](https://github.com/donnemartin/system-design-primer)  
+
+---
+
+## 🌐 Community & Networking
+- **Communities**: Reddit (/r/webdev), Dev.to, Hashnode  
+- **Q&A**: Stack Overflow  
+- **Discord/Slack**: JavaScript/React/MERN communities  
+
+---
+
+## 📚 Resources & References
+### 📖 Courses
+- [freeCodeCamp](https://www.freecodecamp.org/)  
+- [The Odin Project](https://www.theodinproject.com/)  
+- [Frontend Mentor](https://www.frontendmentor.io/)  
+
+### 📘 Docs & References
+- [MDN Web Docs](https://developer.mozilla.org/)  
+- [W3Schools](https://www.w3schools.com/)  
+- [React Official Docs](https://react.dev/)  
+- [Node.js Docs](https://nodejs.org/en/docs)  
+- [Express Docs](https://expressjs.com/)  
+
+### 🎨 UI Libraries
+- [TailwindCSS](https://tailwindcss.com/)  
+- [Bootstrap](https://getbootstrap.com/)  
+- [Material UI](https://mui.com/)  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome 🎉  
+
+1. Fork this repo  
+2. Create your feature branch (`git checkout -b feature/your-feature`)  
+3. Commit changes (`git commit -m "Add new resource"`)  
+4. Push to branch (`git push origin feature/your-feature`)  
+5. Open a Pull Request  
+
+---
+
+## 🪪 License
+This project is licensed under the **MIT License**.  
+Feel free to use, share, and contribute!  
+
+---
+
