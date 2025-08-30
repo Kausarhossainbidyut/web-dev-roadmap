@@ -348,12 +348,38 @@ Contributions are welcome 🎉
 ---
 
 ## Image Generator AI
-- [playground](https://playground.com/)
-- [creator.nightcafe](https://creator.nightcafe.studio/)
-- [bing](https://www.bing.com/images/create)
-- [dream.ai](https://dream.ai/)
-- [craiyon](https://www.craiyon.com/en)
+- [✔ playground](https://playground.com/)
+- [✔ creator.nightcafe](https://creator.nightcafe.studio/)
+- [✔ bing](https://www.bing.com/images/create)
+- [✔ dream.ai](https://dream.ai/)
+- [✔ craiyon](https://www.craiyon.com/en)
 
+## Project set-up
+1. [✔ Vite](https://vite.dev/guide/)
+2. [✔ React Router](https://reactrouter.com/)
+3. [✔ React Icons](https://react-icons.github.io/react-icons/)
+4. [✔ Tailwind CSS](https://tailwindcss.com/)
+5. [✔ DaisyUI](https://daisyui.com/)
+6. [✔ Firebase](https://firebase.google.com/)
+7. [✔ Netlify](https://app.netlify.com/)
+8. [✔ ImgBB](https://imgbb.com/)
+9. [✔ Express.js](https://expressjs.com/)
+10. [✔ Nodemon](https://www.npmjs.com/package/nodemon)
+11. [✔ MongoDB Node Driver](https://www.mongodb.com/docs/drivers/node/current/)
+12. [✔ MongoDB Cloud Login](https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F68261c35a5a0cb63c25e9282&nextHash=%23metrics%2FreplicaSet%2F68261da74ce7ee1f14b1a4da%2Fexplorer%2Fusersdb%2Fusers%2Ffind&signedOut=true)
+
+### Design Idea
+13. [✔ ThemeForest Templates](https://themeforest.net/?srsltid=AfmBOooT7j1ROKF5NEHrh3I-lxZXxb22tRy6LKgsVTq3sZsSSqLXpFVp)
+14. [✔ Hostinger Auth/Login](https://auth.hostinger.com/login?redirectUrl=https%3A%2F%2Fhorizons.hostinger.com%2F73fc2e3f-3100-440c-ac3c-a831f9f59332)
+
+## Animation
+1. [✔ LottieFiles](https://lottiefiles.com/)
+2. [✔ Lottie React](https://www.npmjs.com/package/lottie-react)
+3. [✔ Framer Motion](https://motion.dev/docs/react)
+
+## Free Image Resources
+- [✔ Freepik](https://www.freepik.com/)
+- [✔ Icons8](https://icons8.com/)
 
 
 
