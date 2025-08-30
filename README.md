@@ -291,7 +291,7 @@
 
 ## 🛠 Developer Productivity Tools
 - **Editor**: [VS Code](https://code.visualstudio.com/)  
-  - Extensions: ESLint, Prettier, GitLens, Tailwind IntelliSense  # Code Spell Checker, Tailwind CSS IntelliSense, Search node_modules, Reactjs code snippets, React Extension Pack, Path Intellisense, npm Intellisense, Material Icon Theme, Live Server, JavaScript (ES6) code snippets, ESLint, Error Lens, Code Runner, CMake Tools,,,
+  -### Extensions: ESLint, Prettier, GitLens, Tailwind IntelliSense || - Code Spell Checker, Tailwind CSS IntelliSense, Search node_modules, Reactjs code snippets, React Extension Pack, Path Intellisense, npm Intellisense, Material Icon Theme, Live Server, JavaScript (ES6) code snippets, ESLint, Error Lens, Code Runner, CMake Tools,,,
 - **API Testing**: Postman, Insomnia  
 - **Database GUI**: TablePlus, MongoDB Compass  
 - **Browser Extensions**: React DevTools, Redux DevTools  
