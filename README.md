@@ -348,11 +348,11 @@ Contributions are welcome 🎉
 ---
 
 ## Image Generator AI
--[playground](https://playground.com/)
--[creator.nightcafe](https://creator.nightcafe.studio/)
--[bing](https://www.bing.com/images/create)
--[dream.ai](https://dream.ai/)
--[craiyon](https://www.craiyon.com/en)
+- [playground](https://playground.com/)
+- [creator.nightcafe](https://creator.nightcafe.studio/)
+- [bing](https://www.bing.com/images/create)
+- [dream.ai](https://dream.ai/)
+- [craiyon](https://www.craiyon.com/en)
 
 
 
