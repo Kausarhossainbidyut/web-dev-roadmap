@@ -286,5 +286,5 @@
 ## 📚 Resource Directory (All-in-One)
 
 # English Spokeng Corse
--[English Spokeng]https://www.learnvern.com/spoken-english-course/understanding-sentences-in-english?show_calendar_popup=1
+- [English Spokeng](https://www.learnvern.com/spoken-english-course/understanding-sentences-in-english?show_calendar_popup=1)
 
