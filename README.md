@@ -285,8 +285,8 @@
 
 ## 📚 Resource Directory (All-in-One)
 
-# English Spokeng Corse
-- [English Spokeng](https://www.learnvern.com/spoken-english-course/understanding-sentences-in-english?show_calendar_popup=1)
+## English Spokeng Corse
+-**English Spokeng Learn** [English Spokeng](https://www.learnvern.com/spoken-english-course/understanding-sentences-in-english?show_calendar_popup=1)
 
 
 ## 🛠 Developer Productivity Tools
