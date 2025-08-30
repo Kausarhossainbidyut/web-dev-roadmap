@@ -288,7 +288,8 @@
 # English Spokeng Corse
 - [English Spokeng](https://www.learnvern.com/spoken-english-course/understanding-sentences-in-english?show_calendar_popup=1)
 
-  ## 🛠 Developer Productivity Tools
+
+## 🛠 Developer Productivity Tools
 - **Editor**: [VS Code](https://code.visualstudio.com/)  
   - Extensions: ESLint, Prettier, GitLens, Tailwind IntelliSense  
 - **API Testing**: Postman, Insomnia  
