@@ -382,6 +382,6 @@ Contributions are welcome 🎉
 - [✔ Icons8](https://icons8.com/)
 
 ## TypeScript Note
--**TypeScript** [TypeScript](https://developer-zahir.notion.site/TypeScript-1e5c503b15a98035848bdfc22b66d136?fbclid=IwQ0xDSwMC7HJleHRuA2FlbQIxMAABHmZ_by20NURi-Zq3SeWsDNiVDAjmL-1gu1P8SDeOEaY98r747RD2blX43g2j_aem_PU8HKIt01I3_rUSEe5nVcw )
+- **TypeScript** [TypeScript](https://developer-zahir.notion.site/TypeScript-1e5c503b15a98035848bdfc22b66d136?fbclid=IwQ0xDSwMC7HJleHRuA2FlbQIxMAABHmZ_by20NURi-Zq3SeWsDNiVDAjmL-1gu1P8SDeOEaY98r747RD2blX43g2j_aem_PU8HKIt01I3_rUSEe5nVcw )
 
 
