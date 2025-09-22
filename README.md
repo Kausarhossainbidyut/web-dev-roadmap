@@ -356,7 +356,9 @@
 ### 🎨 UI Libraries
 - [TailwindCSS](https://tailwindcss.com/)  
 - [Bootstrap](https://getbootstrap.com/)  
-- [Material UI](https://mui.com/)  
+- [Material UI](https://mui.com/)
+- [material-u](https://mui.com/material-ui/react-autocomplete/)
+- [ui.shadcn](https://ui.shadcn.com/docs/installation)
 
 ---
 
@@ -377,6 +379,7 @@ Contributions are welcome 🎉
 - [✔ bing](https://www.bing.com/images/create)
 - [✔ dream.ai](https://dream.ai/)
 - [✔ craiyon](https://www.craiyon.com/en)
+- [recraft.ai](https://www.recraft.ai/projects)
 
 ## Project set-up
 1. [✔ Vite](https://vite.dev/guide/)
