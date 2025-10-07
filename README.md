@@ -287,6 +287,7 @@
 
 ## English Spokeng Corse
 -**English Spokeng Learn** [English Spokeng](https://www.learnvern.com/spoken-english-course/understanding-sentences-in-english?show_calendar_popup=1)
+-**MERN Stack** [Mern stack with GP Academy](https://www.grameenphone.academy/courses/full-stack-development-with-mern)
 
 
 ## 🛠 Developer Productivity Tools
