@@ -415,6 +415,10 @@ Contributions are welcome 🎉
 ## TypeScript Note
 - **TypeScript** [TypeScript](https://developer-zahir.notion.site/TypeScript-1e5c503b15a98035848bdfc22b66d136?fbclid=IwQ0xDSwMC7HJleHRuA2FlbQIxMAABHmZ_by20NURi-Zq3SeWsDNiVDAjmL-1gu1P8SDeOEaY98r747RD2blX43g2j_aem_PU8HKIt01I3_rUSEe5nVcw )
 
+## JavaScript Note
+- **Javascript interview questions** [Javascript interview questions ](https://www.notion.so/Javascript-interview-questions-271e6b9c449a80039c79ca02b785ed72)
+  
+
 # Most importent rep all in one React Awesome
 - [React-awesome](https://github.com/brillout/awesome-react-components)
 
