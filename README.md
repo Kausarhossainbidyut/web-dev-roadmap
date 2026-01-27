@@ -311,6 +311,7 @@
 - Error Lens,
 - Code Runner,
 - CMake Tools....
+- CodeRabbit,
   ### API Testing:
   - Postman,
   - Insomnia  
@@ -421,6 +422,7 @@ Contributions are welcome 🎉
 
 # Most importent rep all in one React Awesome
 - [React-awesome](https://github.com/brillout/awesome-react-components)
+- [ওয়েবসাইট ডিজাইন ইন্সপিরেশনের 3000+](https://devmeetsdevs.com/)
 
 #Express.js
 -[express]-(https://www.simplilearn.com/tutorials/nodejs-tutorial/getting-started-with-nodejs)
