@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 📑 Table of Contents
 
 * [🗺️ Learning Path at a Glance](#%EF%B8%8F-learning-path-at-a-glance)
