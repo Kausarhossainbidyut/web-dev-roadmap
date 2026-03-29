@@ -313,6 +313,8 @@
 - Code Runner,
 - CMake Tools....
 - CodeRabbit,
+- Windsurf Plugin (formerly Codeium) [AI Extenction]
+
   ### API Testing:
   - Postman,
   - Insomnia  
